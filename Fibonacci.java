@@ -18,6 +18,5 @@ public class Fibonacci {
             b = next;
         }
 
-        sc.close();
     }
 }
